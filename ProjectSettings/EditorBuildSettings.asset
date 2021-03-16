@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GoogleVR/Demos/Scenes/HelloVR.unity
-    guid: bb36d2905dc634f1c9eecb35beecaca8
+    path: Assets/Main.unity
+    guid: 0c15b1aa93c8449138f66aefbf313a20
   m_configObjects: {}
